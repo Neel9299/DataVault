@@ -1,0 +1,5 @@
+Bank: Adithya, password1234
+SSN: 123456789
+Google: adithya@gmail.com, 123456
+Galaxy: asb100000, galaxypass
+Random: user, randompass
